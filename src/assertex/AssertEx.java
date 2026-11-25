@@ -1,3 +1,4 @@
+package assertex;
 
 import java.util.Scanner;
 public class AssertEx {
@@ -17,4 +18,4 @@ public class AssertEx {
         int y = (int) (x);
         System.out.println(y);
     }//end method main
-}//end class AssertEx
+}//end class assertex.AssertEx

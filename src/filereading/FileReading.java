@@ -14,7 +14,7 @@ public class FileReading
 
     static void displayEmployees(ArrayList<String> employees)
     {
-        for (String employee: employees)
+        for (String employee : employees)
         {
             System.out.println(employee);
         }
